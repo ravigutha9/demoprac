@@ -1,2 +1,2 @@
 # demoprac
-This is the demo for git
+This is the demo for git.
